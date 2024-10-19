@@ -1,7 +1,7 @@
 # flake.nix
 #
 {
-  description = "Lowkhas Home Manager configuration"
+  description = "Lowkhas Home Manager configuration";
 
   inputs = {
     nixpkgs.url = "nixpkgs/nixos-24.11";
